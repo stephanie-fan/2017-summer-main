@@ -2,7 +2,7 @@
 
 This assignment is a quick walk-through to help you get set up logistically for the course.
 
-## (5 points total) Due: May 19, 11:59p Pacific
+## (5 points total) Due: May 17, 11:59p Pacific
 
 If you haven't yet, please:
 

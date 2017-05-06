@@ -9,8 +9,8 @@ In addition to programming assignments, students will complete a final project t
 The project is expected to be significantly more work than each of the assignments, as you’ll need to do planning and research as well as implement much of the code framework to process data, run experiments, generate plots, etc. How to manage all of this? Start early! (and, ask lots of questions!)
 
 We’ll set several milestones to check in along the way:
-- [10%] **Project proposal** (and groups), due at end of Week 5 (Tuesday June 13 @ 11:59 PM Pacific)
-- [30%] **Milestone** due end Week 11 (Tuesday July 25 @ 11:59 PM Pacific)
+- [10%] **Project proposal** (and groups), due at end of Week 5 (Wednesday June 14 @ 11:59 PM Pacific)
+- [30%] **Milestone** due end Week 11 (Wednesday July 26 @ 11:59 PM Pacific)
 - [10%] **Final presentations** in class Week 15 (August 16 - 22)
 - [50%] **Project writeup** due last day of classes (August 22 @ 11:59 PM Pacific)
 

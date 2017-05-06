@@ -14,25 +14,28 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * Time:  There are 5-6 substantial assignments in this course as well as a term project.  Make sure you give yourself enough time to be successful!
 * [MIDS 207 (Machine Learning)](https://www.ischool.berkeley.edu/courses/datasci/207): We assume you know what gradient descent is.  We'll review simple linear classifiers and softmax at a high level, but make sure you've at least heard of these!
 
+**Contacts and resources:**
+* Course website: [GitHub datasci-w266/2017-summer-main](../../../)
+* [Piazza](https://piazza.com/berkeley/summer2017/datasciw266) - we'll use this for Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, and/or make posts visible only to instructors for private questions.
+* Email list for course staff: [mids-nlp-instructors@googlegroups.com](mailto:mids-nlp-instructors@googlegroups.com)
+
 **Live Sessions:**
-* Monday 4p - 5:30p Pacific ([James Kunz](mailto:jkunz@ischool.berkeley.edu))
-* Thursday 6:30p - 8p Pacific ([Arathi Mani](arathim@ischool.berkeley.edu))
-* Friday 4p - 5:30p Pacific ([James Kunz](mailto:jkunz@ischool.berkeley.edu))
+* Monday 4p - 5:30p Pacific (James Kunz)
+* Thursday 6:30p - 8p Pacific (Arathi Mani)
+* Friday 4p - 5:30p Pacific (James Kunz)
 
 **Office Hours:**
-* TBD
+* Immediately after the live sessions.
 
-**Course Assistant:**
-* TBD
+**Teaching Staff**
+* [Arathi Mani](mailto:arathim@berkeley.edu)
+* [Drew Plant](mailto:drewplant@berkeley.edu)
+* [Ian Tenney](mailto:iftenney@berkeley.edu)
+* [James Kunz](mailto:jkunz@berkeley.edu)
 
 **Async Instructors:**
 * Dan Gillick
 * Kuzman Ganchev
-
-**Contacts and resources:**
-* Course website: [GitHub datasci-w266/2017-summer-main](../../../)
-* [Piazza](https://piazza.com/berkeley/summer2017/datasciw266) - we'll use this for Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, and/or make posts visible only to instructors for private questions.
-* Email list for course staff: mids-nlp-instructors@googlegroups.com
 
 ## Grading
 ### Breakdown
@@ -96,7 +99,7 @@ A few useful papers that don’t fit under a particular week. All optional, but 
 
 We'll update the table below with assignments as they become available, as well as additional materials throughout the semester. Keep an eye on GitHub for updates!
 
-*Dates are tentative:* assignments in particular are likely to change topics and dates.
+*Dates are tentative:* assignments in particular are likely to change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
 <table>
 <tr>
@@ -121,12 +124,12 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
   </ul> 
   <p>
-  <a href="https://docs.google.com/a/kunz.ca/presentation/d/1uyAg4gjT2indnNIGGp8uIKeok_w9Un5pFbFXY_WL9TQ/preview" target="_blank">[James's&nbsp;Slides]</a> <a href="https://docs.google.com/presentation/d/1BL_nxhy6-xGIIqEu0QGvvJJ9fhJT9EwyOS55ZmRPW3Q/preview" target="_blank">[Ian's&nbsp;Slides]</a>
+  <a href="https://docs.google.com/a/kunz.ca/presentation/d/1uyAg4gjT2indnNIGGp8uIKeok_w9Un5pFbFXY_WL9TQ/preview" target="_blank">[Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 1 Assignment -->
   <td><strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>
-  <br>due&nbsp;May.&nbsp;19</td>
+  <br>due&nbsp;May.&nbsp;17</td>
   <td><strong>Course Set-up</strong></td>
   <td><ul>
     <li>GitHub
@@ -154,7 +157,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Week 2 Assignment -->
   <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
-  <br>due&nbsp;May.&nbsp;23</td>
+  <br>due&nbsp;May.&nbsp;24</td>
   <td><strong>Background and TensorFlow</strong></td>
   <td><ul>
   <li>Information Theory
@@ -208,7 +211,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Week 3-4 Assignment -->
   <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
-  <br>due&nbsp;Jun.&nbsp;6</td>
+  <br>due&nbsp;Jun.&nbsp;7</td>
   <td><strong>n-grams and Word Embeddings</strong></td>
   <td><ul>
     <li>Smoothed n-grams
@@ -234,7 +237,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Project Proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
-  <br>due&nbsp;Jun.&nbsp;13</td>
+  <br>due&nbsp;Jun.&nbsp;14</td>
   <td></td>
   <td></td>
   <td><strong><a href="../project" target="_blank">Final Project Guidelines</a></strong>
@@ -264,7 +267,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Week 5-6 Assignment -->
   <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
-  <br>due&nbsp;Jun.&nbsp;20</td>
+  <br>due&nbsp;Jun.&nbsp;21</td>
   <td><strong>RNN Language Model</strong></td>
   <td><ul>
   <li>RNNLM structure
@@ -311,7 +314,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Week 7-8 Assignment -->
   <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
-  <br>due&nbsp;Jul.&nbsp;4</td>
+  <br>due&nbsp;Jul.&nbsp;5</td>
   <td><strong>Dynamic Programming Intro</strong></td>
   <td><ul>
   <li>Dynamic programming
@@ -374,7 +377,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Project Milestone -->
   <td><strong><a href="../project/#milestone" target="_blank">Project&nbsp;Milestone</a></strong>
-  <br>due&nbsp;Jul.&nbsp;25</td>
+  <br>due&nbsp;Jul.&nbsp;26</td>
   <td></td>
   <td></td>
   <td><strong><a href="../project/#milestone" target="_blank">Final Project Guidelines</a></strong>
@@ -397,7 +400,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Week 7-10 Assignment -->
   <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
-  <br>due&nbsp;Aug.&nbsp;1</td>
+  <br>due&nbsp;Aug.&nbsp;2</td>
   <td><strong>Tagging and Parsing</strong></td>
   <td><ul>
   <li>HMMs / Forward-Backward and Viterbi
