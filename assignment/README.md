@@ -6,13 +6,10 @@ In particular, do not wait until week 2 to start the second assignment!
 
 TL;DR: Start early!
 
-Each assignment is due at 11:59pm Pacific the Sunday at the end of the week indicated.
+Each assignment is due at 11:59pm Pacific on Wednesdays.
 
-- [Assignment 0](a0/) (Course Set-Up) - due end of Week 1 (Jan. 15, 11:59 pm Pacific)
-- [Assignment 1](a1/) (Info Theory and TensorFlow) - due end of Week 2 (Jan. 22, 11:59 pm Pacific)
-- [Assignment 2](a2/) (n-grams and Word Embeddings) - due end of Week 4 (Feb. 5, 11:59 pm Pacific)
-- [Assignment 3](a3/) (RNN Language Model) - due end of Week 6 (Feb. 19, 11:59 pm Pacific)
-- [Assignment 4](a4/) (Dynamic Programming) - due end of Week 8 (Mar. 5, 11:59 pm Pacific)
+- [Assignment 0](a0/) (Course Set-Up) - due end of Week 1 (May 17, 11:59 pm Pacific)
+- [Assignment 1](a1/) (Info Theory and TensorFlow) - due end of Week 2 (May 24, 11:59 pm Pacific)
 
 ### Collaboration policy
 
@@ -25,7 +22,7 @@ More specifically:
   or help debug each other's code.
 - You can get help on general programming issues, but only in a very general 
   capacity that does not relate to a specific part of the assignment. (example: 
-  "Oh, I had issues with that function crashing, but updating TensorFlow to 0.12 
+  "Oh, I had issues with that function crashing, but updating TensorFlow to 1.1 
   fixed it for me.") If in doubt, ask in a *private* question on Piazza.
 - You should not search for or use solutions to the assignment problems that you 
   find on the web. If you inadvertently come across such a solution, you 
