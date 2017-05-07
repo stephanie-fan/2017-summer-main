@@ -7,15 +7,14 @@ This assignment is a quick walk-through to help you get set up logistically for 
 If you haven't yet, please:
 
 - Sign up for [Piazza](http://piazza.com/berkeley/summer2017/datasciw266)
-- Fill out the [Office Hours scheduling poll](http://doodle.com/poll/679ybxc3w96umfpu)
-- (Monday class only) Please let the instructors know (use a private post on Piazza) *if you cannot attend class on January 16 & February 20*.  These are technically academic & administrative holidays.  We'll want to make other arrangements for you to get help with those week's material!
+- (Monday class only) Please let the instructors know (use a private post on Piazza) *if you cannot attend class on May 29*.  These are technically academic & administrative holidays.  We'll want to make other arrangements for you to get help with those week's material!
 
 Now we'll get you all set up with the software packages and the course GitHub.
 
 1. [Setup](https://calmail.berkeley.edu/manage/account/create_account) a @berkeley.edu account setup if you don't already have one (@ischool.berkeley.edu is insufficient!)
 
 1. **Set up your computing environment:** We recommend using a Google Cloud Compute instance. We have $50 of credits available per student, and it should only take a few minutes to set up by following [our Cloud guide](cloud/).  
-If you prefer to work on your own laptop/desktop/server (including AWS), we strongly recommend Ubuntu 16.04 with Anaconda 4.2.0 (Python 2.7) as your Python distribution. Be sure to install **TensorFlow version 0.12.1**, as the TensorFlow APIs tend to break between versions.  
+If you prefer to work on your own laptop/desktop/server (including AWS), we strongly recommend Ubuntu 16.04 with Anaconda 4.2.0 (Python 2.7) as your Python distribution. Be sure to install **TensorFlow version 1.1**, as the TensorFlow APIs tend to break between versions.  
 *(Note that due to the variety of systems out there, we can only provide official support for Google Cloud instances.)*
 
 2. **Clone the course repo** (if you didn't already in the Cloud guide) with:  
