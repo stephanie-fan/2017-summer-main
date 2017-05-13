@@ -23,7 +23,7 @@ The project is very open-ended, but we do require it to be an NLP project. This 
 
 As for scope: an ambitious project for a group of 2-3 would be similar in scope and depth of experiments to a conference paper.
 
-For project ideas, take a look at the final projects from [previous](example-comment-quality.pdf) [semesters](example-grammar.pdf), [Stanford cs224n](http://nlp.stanford.edu/courses/cs224n/) (all years), or for deep-learning projects, [cs224d](http://cs224d.stanford.edu/) ([2015](http://cs224d.stanford.edu/reports_2015.html), [2016](http://cs224d.stanford.edu/reports_2016.html)). A few examples, as a place to start:
+For project ideas, take a look at the final projects from [previous](example-comment-quality.pdf) [semesters](example-grammar.pdf), Stanford [cs224n](https://web.stanford.edu/class/cs224n/index.html) ([2000-2015](http://nlp.stanford.edu/courses/cs224n/), [2017](https://web.stanford.edu/class/cs224n/reports.html)), or for deep-learning projects, [cs224d](http://cs224d.stanford.edu/) ([2015](http://cs224d.stanford.edu/reports_2015.html), [2016](http://cs224d.stanford.edu/reports_2016.html)). A few examples, as a place to start:
 - Abstractive summarization of news articles
 - Restaurant menu extraction from user reviews
 - Question-answering with neural attention or memory models
@@ -38,9 +38,9 @@ Two groups from the Fall 2016 iteration of this course have also graciously agre
 Also see below for NLP conferences - [ACL](http://acl2016.org/index.php?article_id=68) and [EMNLP](http://www.emnlp2016.net/accepted-papers.html) are the top two, and you can find plenty of interesting ideas from the recent proceedings!
 
 ## Project Proposal
-**10% of project grade**
+**5% of project grade**
 
-This is the most important deliverable.  Take time to get it right! A concrete idea at this early stage will help you build a stronger project and help you in the course overall. 
+This is the most important deliverable. Take time to get it right! A concrete idea at this early stage will help you build a stronger project and help you in the course overall.
 
 Each group will submit a proposal.  We’ll read each one and give you detailed feedback. The proposal should be concise, 200-300 words. Quality is valued here far more than quantity!
 
@@ -63,7 +63,7 @@ Please send your proposal to mids-nlp-instructors@googlegroups.com, either as a 
 _Please no Microsoft Word documents!_
 
 ## Milestone
-**30% of project grade**
+**5% of project grade**
 
 You’ll submit a partial report (3-5 pages) and implementation of your project. This should include:
 - Evidence that you’ve been able to obtain, load, and play around a bit with your data.  (For example,  some simple exploratory data analysis.)
@@ -86,12 +86,12 @@ You should also share your code with us via GitHub. Either include a link in you
 Please send your write-up in PDF format to mids-nlp-instructors@googlegroups.com.
 
 ## Presentations 
-**10% of project grade**
+**30% of project grade**
 
-Expect that your group will give a short (5-10min) presentation summarizing your project during live session in the last week. We’ll announce a schedule and further details of the presentation format closer to the end of the term.
+Expect that your group will give a short (~5 min) presentation summarizing your project during live session in the last week. We’ll announce a schedule and further details of the presentation format closer to the end of the term.
 
 ## Final Submission
-**50% of project grade**
+**60% of project grade**
 
 This will be a final report in the style of a research paper. Aim for something between an ACL [short paper](http://aclweb.org/anthology/P/P16/#2000) and [long paper](http://aclweb.org/anthology/P/P16/#1000) in length (4-6 pages), with sections similar to the following:
 - **Abstract**

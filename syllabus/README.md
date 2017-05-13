@@ -6,13 +6,14 @@
 [Course Resources](#course-resources)  
 [Schedule and Readings](#schedule-and-readings)  
 
+
 ## Course Overview
 Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course is a broad introduction to linguistic phenomena and our attempts to analyze them with machine learning. We will cover a wide range of concepts with a focus on practical applications such as information extraction, machine translation, sentiment analysis, and summarization.
    
 **Prerequisite:**
-* Python: All assignments will be in python using numpy and jupyter.
-* Time:  There are 5-6 substantial assignments in this course as well as a term project.  Make sure you give yourself enough time to be successful!
-* [MIDS 207 (Machine Learning)](https://www.ischool.berkeley.edu/courses/datasci/207): We assume you know what gradient descent is.  We'll review simple linear classifiers and softmax at a high level, but make sure you've at least heard of these!
+* Python: All assignments will be in Python using Jupyter notebooks, NumPy, and TensorFlow.
+* Time:  There are 5-6 substantial assignments in this course as well as a term project.  Make sure you give yourself enough time to be successful! In particular, you may be in for a rough semester if you take both this and 261 :)
+* [MIDS 207 (Machine Learning)](https://www.ischool.berkeley.edu/courses/datasci/207): We assume you know what gradient descent is.  We'll review simple linear classifiers and softmax at a high level, but make sure you've at least heard of these! You should also be comfortable with linear algebra, which we'll use for vector representations and when we discuss deep learning.
 
 **Contacts and resources:**
 * Course website: [GitHub datasci-w266/2017-summer-main](../../../)
@@ -37,7 +38,9 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * Dan Gillick
 * Kuzman Ganchev
 
+
 ## Grading
+
 ### Breakdown
 
 Your grade report can be found at [https://w266grades.appspot.com](https://w266grades.appspot.com).
@@ -52,8 +55,8 @@ exercise what you learned in async and live sessions. Some assignments may be mo
 
 Participation will be graded holistically, based on live session attendance and participation as well as participation on Piazza. (Don’t stress about this part.)
 
-### Late Day Policy
 
+### Late Day Policy
 
 We recognize that sometimes things happen in life outside the course, especially in MIDS where we all have full time jobs and family responsibilities to attend to. To help with these situations, we are giving you **5 "late days"** to use throughout the term as you see fit.  Each late day gives you a 24 hour (or any part thereof) extension to any deliverable in the course **except** the final project presentation or report. (UC Berkeley needs grades submitted very shortly after the end of classes.)
 
@@ -67,8 +70,10 @@ We don't anticipate granting extensions beyond these policies.  Plan your time a
 
 If you run into a more serious issue that will affect your ability to complete the course, please contact the instructors and MIDS student services.  A word of warning though: in previous sections, we have had students ask for INC grades because their lives were otherwise busy.  Mostly we have declined, opting instead for the student to complete the course to the best of their ability and have a grade assigned based on that work.  (MIDS prefers to avoid giving INCs, as they have been abused in the past.)
 
+
 ## Final Project
 *See the [Final Project Guidelines](../project/)*
+
 
 ## Course Resources
 We are not using any particular textbook for this course. We’ll list some relevant readings each week. Here are some general resources:
@@ -83,7 +88,7 @@ We’ll be posting materials to the course [GitHub repo](../../../).
 
 The course will be taught in Python, and we'll be making heavy use of NumPy, TensorFlow, and Jupyter (IPython) notebooks. We'll also be using Git for distributing and submitting materials. If you want to brush up on any of these, we recommend:
 * **Git tutorials:** [Introduction / Cheat Sheet](https://git-scm.com/docs/gittutorial), or [interactive tutorial](https://try.github.io/)
-* **Python / NumPy:** Stanford's CS231n has [an excellent tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+* **Python / NumPy:** Stanford's CS231n has [an excellent tutorial](http://cs231n.github.io/python-numpy-tutorial/).
 * **TensorFlow:** We'll go over the basics of TensorFlow in [Assignment 1](../../../tree/master/assignment/a1/). You can also check out the [tutorials](https://www.tensorflow.org/get_started/) on the TensorFlow website, but these can be somewhat confusing if you're not familiar with the underlying models.
 
 
@@ -373,7 +378,10 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/D09-1120" target="_blank">Simple Coreference Resolution with Rich Syntactic and Semantic Features</a> (Haghighi and Klein 2009, rule-based coreference)
   <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/P16-1061" target="_blank">Improving Coreference Resolution by Learning Entity-Level Distributed
   Representations</a> (Clark and Manning 2016, neural coreference)
-  </ul></td>
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1LsXU5IWYAuvyBgN5zmqgSzptXwOwKyaOwuRmejSCSXg/preview" target="_blank">[Slides]</a>
+  </td>
 </tr>
 <tr><!--- Project Milestone -->
   <td><strong><a href="../project/#milestone" target="_blank">Project&nbsp;Milestone</a></strong>
@@ -396,7 +404,10 @@ We'll update the table below with assignments as they become available, as well 
   </ul></td>
   <td><ul>
   <li>Skim: <a href="http://www.isi.edu/natural-language/mt/wkbk.rtf" target="_blank">Statistical MT Handbook by Kevin Knight</a>
-  </ul></td>
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1PwV1xPx0q4z8pD6K324qGnPPaUf_-mpCqUPO-KNJ7Nc/preview" target="_blank">[MT Slides]</a>
+  </td>
 </tr>
 <tr><!--- Week 7-10 Assignment -->
   <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
@@ -423,7 +434,10 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="https://arxiv.org/pdf/1409.0473.pdf" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
   <li><em>Optional:</em> <a href="https://arxiv.org/abs/1609.08144" target="_blank">Google’s Neural Machine Translation System</a>
   <li><em>Optional:</em> <a href="http://distill.pub/2016/augmented-rnns/#attentional-interfaces" target="_blank">Attention and Augmented Recurrent Neural Networks</a> (section on “Attentional Interfaces” has an awesome visualization of an MT example, showing alignments)
-  </ul></td>
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1PwV1xPx0q4z8pD6K324qGnPPaUf_-mpCqUPO-KNJ7Nc/preview" target="_blank">[MT Slides]</a>
+  </td>
 </tr>
 <tr><!--- Week 14 -->
   <td><strong>Week&nbsp;14</strong><br>(Aug.&nbsp;9&nbsp;-&nbsp;15)</td>
@@ -438,7 +452,10 @@ We'll update the table below with assignments as they become available, as well 
   <td><ul>       
   <li>Skim: <a href="https://www.cs.cmu.edu/~afm/Home_files/Das_Martins_survey_summarization.pdf" target="_blank">A Survey on Automatic Text Summarization</a> (Das and Martins, 2007)
   <li>Read: <a href="https://arxiv.org/pdf/1509.00685v2.pdf" target="_blank">A Neural Attention Model for Abstractive Sentence Summarization</a> (Rush et al. 2015)
-  </ul></td>     
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1OBosgpmWlmZ30T8M5uxTtS-Dp9DRQmeHScCxFpduYBc/preview" target="_blank">[Slides]</a>
+  </td>
 </tr>
 <tr><!--- Week 15 -->
   <td><strong>Week&nbsp;15</strong><br>(Aug.&nbsp;16&nbsp;-&nbsp;22)</td>

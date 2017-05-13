@@ -188,7 +188,6 @@ def train_nn(X, y, X_test, hidden_dims, batch_size, num_epochs, learning_rate,
 
 
     # Output some initial statistics.
-    # You should see about a 0.6 initial loss (-ln 2).
     sess = tf.Session(config=tf.ConfigProto(device_filters="/cpu:0"))
     # sess.run(tf.initialize_all_variables())
     sess.run(tf.global_variables_initializer())
