@@ -1,4 +1,4 @@
-# DATASCI W266: Natural Language Processing
+# DATASCI W266: Natural Language Processing with Deep Learning
 
 Understanding language is fundamental to human interaction. Our brains have
 evolved language-specific circuitry that helps us learn it very quickly;

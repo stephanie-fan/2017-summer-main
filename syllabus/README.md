@@ -1,4 +1,4 @@
-# DATASCI W266: Natural Language Processing
+# DATASCI W266: Natural Language Processing with Deep Learning
 
 [Course Overview](#course-overview)  
 [Grading](#grading)  
