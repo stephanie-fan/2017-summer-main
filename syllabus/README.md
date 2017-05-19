@@ -157,7 +157,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data (Peter Norvig)</a>
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1sAPpjXjGusb-tj_fUU0WCuq8AkxlxCAXIUULgAC0Rks/preview" target="_blank">[Slides]</a> <a href="../materials/week2/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a>
+  <a href="https://docs.google.com/presentation/d/1iHS3Kj_ekxXcTZctxlyW0t8ofbbKMvq8bk_VTeaTTxw/preview" target="_blank">[Slides]</a> <a href="../materials/week2/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a>
   </td>
 </tr>
 <tr><!--- Week 2 Assignment -->
