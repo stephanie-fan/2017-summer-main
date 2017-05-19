@@ -129,7 +129,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
   </ul> 
   <p>
-  <a href="https://docs.google.com/a/kunz.ca/presentation/d/1uyAg4gjT2indnNIGGp8uIKeok_w9Un5pFbFXY_WL9TQ/preview" target="_blank">[Slides]</a>
+  <a href="https://docs.google.com/presentation/d/1sAPpjXjGusb-tj_fUU0WCuq8AkxlxCAXIUULgAC0Rks/preview" target="_blank">[Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 1 Assignment -->
@@ -157,7 +157,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data (Peter Norvig)</a>
   </ul>
   <p>
-  <a href="https://docs.google.com/a/kunz.ca/presentation/d/1Ooac3niWJCAG0yxjVtG-x6o4d2qg_blKDbLO6YHcLFU/preview" target="_blank">[Slides]</a> <a href="../materials/week2/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a>
+  <a href="https://docs.google.com/presentation/d/1sAPpjXjGusb-tj_fUU0WCuq8AkxlxCAXIUULgAC0Rks/preview" target="_blank">[Slides]</a> <a href="../materials/week2/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a>
   </td>
 </tr>
 <tr><!--- Week 2 Assignment -->
@@ -171,7 +171,7 @@ We'll update the table below with assignments as they become available, as well 
   <td>
   <a href="../assignment/a1" target="_blank">Assignment 1</a>
   <p><p>
-  <a href="https://docs.google.com/presentation/d/1z-EsTa3yUn0GBBelNgbUpZbAU_yob2oMM-NlYTP9oHg/preview">[Tutorial&nbsp;Slides]</a>
+  <a href="https://docs.google.com/presentation/d/1Ss8YQkkt27a39dsg9WOCMLax59ertKHYZRXduGTLG60/preview">[Tutorial&nbsp;Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 3 -->
