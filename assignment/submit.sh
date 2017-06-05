@@ -20,6 +20,7 @@ function validate_assignment() {
   grep -F -q -x "$1" <<EOF
 0
 1
+2
 EOF
 }
 
