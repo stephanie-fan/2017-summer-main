@@ -274,7 +274,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Week 5-6 Assignment -->
   <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
-  <br>due&nbsp;Jun.&nbsp;21</td>
+  <br>due&nbsp;Jun.&nbsp;28</td>
   <td><strong>RNN Language Model</strong></td>
   <td><ul>
   <li>RNNLM structure
