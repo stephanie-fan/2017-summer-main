@@ -63,7 +63,10 @@ class AddKTrigramLM(object):
 
         #### YOUR CODE HERE ####
         # Compute context counts
-
+        for key, value in self.counts.iteritems():
+            if not key in self.context_totals:
+                self.context_totals[key] = 0
+            self.context_totals[key] += len(value)
 
         #### END(YOUR CODE) ####
         # Total vocabulary size, for normalization
@@ -93,8 +96,20 @@ class AddKTrigramLM(object):
         # Hint: self.counts.get(...) and self.context_totals.get(...) may be
         # useful here. See note in defaultdict.md about how this works.
 
-
-
+        C_context = self.context_totals.get(context)
+        
+        #checks if we have this context
+        if C_context == None: #if not, we set C_context to 0 as well as C_word
+            C_context = 0
+            C_word = 0
+        else: # otherwise, try to get the count of the context+word
+            C_word = self.counts.get(context).get(word)            
+            
+            #if we don't have the word, set C_word to 0
+            if C_word == None:
+                C_word = 0
+        
+        return (C_word + k)/(C_context + k *self.V)
         #### END(YOUR CODE) ####
 
 

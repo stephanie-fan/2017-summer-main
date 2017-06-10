@@ -61,7 +61,7 @@ justify your choice in your code."""
         self.assertTrue(isinstance(pp, float))
 
         self.assertAlmostEqual(10. / 40.,
-                self.lm.next_word_proba('w266', ['hello', 'world']))
+               self.lm.next_word_proba('w266', ['hello', 'world']))
         self.assertAlmostEqual(11. / 42.,
                 self.lm.next_word_proba('dragons', ['there', 'be']))
 
