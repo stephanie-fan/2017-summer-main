@@ -12,7 +12,7 @@
 #   -a <number> : specify assignment number
 
 GITHUB_USERNAME="${USER}"
-DEFAULT_ASSIGNMENT="0"
+DEFAULT_ASSIGNMENT="3"
 FORCE="false"
 TARGET_BRANCH="master"
 
@@ -21,6 +21,7 @@ function validate_assignment() {
 0
 1
 2
+3
 EOF
 }
 
