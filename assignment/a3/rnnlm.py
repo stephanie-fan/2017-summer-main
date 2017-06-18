@@ -35,11 +35,13 @@ def MakeFancyRNNCell(H, keep_prob, num_layers=1):
     Returns:
       (tf.nn.rnn_cell.RNNCell) multi-layer LSTM cell with dropout
     """
-    cell = tf.contrib.rnn.BasicLSTMCell(H, forget_bias=0.0)
-    cell = tf.contrib.rnn.DropoutWrapper(
-        cell, input_keep_prob=keep_prob, output_keep_prob=keep_prob)
-    cell = tf.contrib.rnn.MultiRNNCell([cell] * num_layers)
-    return cell
+    cells = []
+    for _ in xrange(num_layers):
+      cell = tf.contrib.rnn.BasicLSTMCell(H, forget_bias=0.0)
+      cell = tf.contrib.rnn.DropoutWrapper(
+          cell, input_keep_prob=keep_prob, output_keep_prob=keep_prob)
+      cells.append(cell)
+    return tf.contrib.rnn.MultiRNNCell(cells)
 
 
 # Decorator-foo to avoid indentation hell.
