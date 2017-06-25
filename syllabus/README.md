@@ -191,7 +191,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/" target="_blank">How Vector Space Mathematics Reveals the Hidden Sexism in Language</a> (and the <a href="http://arxiv.org/abs/1607.06520" target="_blank">original paper</a>)
   </ul>
   <p>
-  <a href="https://docs.google.com/a/kunz.ca/presentation/d/17Szk1eaE0v6Q4md-U7nsCLREhGLdUE4ekR6QMFe-nHo/preview" target="_blank">[Slides]</a> <a href="../materials/week3/embeddings.ipynb" target="_blank">[Word&nbsp;Embeddings&nbsp;Notebook]</a> <a href="http://projector.tensorflow.org/" target="_blank">[TensorFlow&nbsp;Embedding&nbsp;Projector]</a>
+  <a href="https://docs.google.com/presentation/d/1McZwQqc5PQs5JsyoYI2SgzlBHsZCxiEm175bCWmR5F4/edit#slide=id.p" target="_blank">[Slides]</a> <a href="../materials/week3/embeddings.ipynb" target="_blank">[Word&nbsp;Embeddings&nbsp;Notebook]</a> <a href="http://projector.tensorflow.org/" target="_blank">[TensorFlow&nbsp;Embedding&nbsp;Projector]</a>
   </td>
 </tr>
 <tr><!--- Week 4 -->
@@ -211,7 +211,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional / fun:</em> <a href="http://playground.tensorflow.org/" target="_blank">Tensorflow Playground</a>
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1wxvIPmeuB7-5OMjFNoSeZ5Isb832cgZH6E4_DZOtk8g/preview" target="_blank">[Slides]</a> 
+  <a href="https://docs.google.com/presentation/d/126vh8zHrB-Gr_cZM9KHyZScHFWIRxzn8VctCzWVOvZM/edit#slide=id.g1c4e903410_1_0" target="_blank">[Slides]</a> 
   <p>
   <a href="../materials/week4/nplm.ipynb" target="_blank">[NPLM Notebook]</a>
   </td>
@@ -240,6 +240,8 @@ We'll update the table below with assignments as they become available, as well 
   <li>Skim: <a href="http://www.nltk.org/book_1ed/ch03.html" target="_blank">NLTK book chapter 3</a> (processing raw text)
   <li>Skim: <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data</a> (Peter Norvig) <em>(if you didn't read in Week 2)</em>
   <li>Read: <a href="http://www.dgillick.com/resource/sbd_naacl_2009.pdf" target="_blank">Sentence Boundary Detection and the Problem with the U.S.</a>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1ShSQ2zALLW2b68LuXak-yc1WwXVAX9ZCeK8Ea-lgzpo/edit">Slides</a>
   </ul></td>
 </tr>
 <tr><!--- Project Proposal -->
@@ -269,19 +271,7 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf" target="_blank">PageRank</a> (Page, et al. 1999)
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/126WF73lCT21AVzrWmVsGBEsi_zV9BQeKozCl6KsfYiE/preview" target="_blank">[Slides]</a>
-  </td>
-</tr>
-<tr><!--- Week 5-6 Assignment -->
-  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
-  <br>due&nbsp;Jun.&nbsp;28</td>
-  <td><strong>RNN Language Model</strong></td>
-  <td><ul>
-  <li>RNNLM structure
-  <li>TensorFlow implementation
-  </ul></td>
-  <td>
-  <a href="../assignment/a3" target="_blank">Assignment 3</a>
+  <a href="https://docs.google.com/presentation/d/1BvwjifFIkyTerxkNsfgH0pai0teUXM0uyZDIJ_z1nU8/edit#slide=id.p" target="_blank">[Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 7 -->
@@ -298,7 +288,19 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="http://www.nltk.org/book_1ed/ch05.html" target="_blank">NLTK book chapter 5: Categorizing and Tagging Words</a>
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1lTqY-Pn6YUIkFmzn_k7ATzBA0k2a4gkdrMhibfV09_M/preview" target="_blank">[Tagging Slides]</a>
+  <a href="https://docs.google.com/presentation/d/1Vqfa8h0XQgk00vtXgd7Y2nlKw46qrhQ6cjx2v7CMdpg/edit#slide=id.p" target="_blank">[Tagging Slides]</a>
+  </td>
+</tr>
+<tr><!--- Week 5-6 Assignment -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <br>due&nbsp;Jun.&nbsp;28</td>
+  <td><strong>RNN Language Model</strong></td>
+  <td><ul>
+  <li>RNNLM structure
+  <li>TensorFlow implementation
+  </ul></td>
+  <td>
+  <a href="../assignment/a3" target="_blank">Assignment 3</a>
   </td>
 </tr>
 <tr><!--- Week 8 -->
@@ -315,8 +317,6 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="https://arxiv.org/pdf/1104.2086.pdf" target="_blank">A Universal Part-of-Speech Tagset</a>
   <li>Read: <a href="http://nlp.stanford.edu/pubs/CICLing2011-manning-tagging.pdf" target="_blank">Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?</a>
   </ul>
-  <p>
-  <a href="https://docs.google.com/presentation/d/1lTqY-Pn6YUIkFmzn_k7ATzBA0k2a4gkdrMhibfV09_M/preview" target="_blank">[Tagging Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 7-8 Assignment -->
@@ -346,7 +346,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Optional: <a href="http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf" target="_blank">A Fast and Accurate Dependency Parser using Neural Networks</a> (Chen & Manning 2014)
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1iEqGzKua4ckt88SGx-pOlYxmndchqQg_MUCwjSy1XMM/preview" target="_blank">[Parsing Slides]</a>
+  <a href="https://docs.google.com/presentation/d/1iiXxWzvD_fDb6TU1cKSsJG10VH1BahOHVE9SkStmrY0/edit" target="_blank">[Parsing Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 10 -->
@@ -363,8 +363,6 @@ We'll update the table below with assignments as they become available, as well 
   <li>Skim: <a href="http://ilpubs.stanford.edu:8091/~klein/unlexicalized-parsing.pdf" target="_blank">Accurate Unlexicalized Parsing</a> (Klein & Manning 2003)
   <li>Play: <a href="http://nlp.stanford.edu:8080/parser/" target="_blank">Stanford parser</a> (online demo)
   </ul>
-  <p>
-  <a href="https://docs.google.com/presentation/d/1iEqGzKua4ckt88SGx-pOlYxmndchqQg_MUCwjSy1XMM/preview" target="_blank">[Parsing Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 11 -->
@@ -382,7 +380,7 @@ We'll update the table below with assignments as they become available, as well 
   Representations</a> (Clark and Manning 2016, neural coreference)
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1LsXU5IWYAuvyBgN5zmqgSzptXwOwKyaOwuRmejSCSXg/preview" target="_blank">[Slides]</a>
+  <a href="https://docs.google.com/presentation/d/1wGRZUQjr_0HjUupvmsypBYPA6pltrcLrKq_MpEaAqHQ/edit#slide=id.p" target="_blank">[Slides]</a>
   </td>
 </tr>
 <tr><!--- Project Milestone -->
@@ -408,7 +406,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Skim: <a href="http://www.isi.edu/natural-language/mt/wkbk.rtf" target="_blank">Statistical MT Handbook by Kevin Knight</a>
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1PwV1xPx0q4z8pD6K324qGnPPaUf_-mpCqUPO-KNJ7Nc/preview" target="_blank">[MT Slides]</a>
+  <a href="https://docs.google.com/presentation/d/102eo2Fb2dv3Bhlt30VFxaJ_7dR7A4NWwcWuuhtf3qg0/edit#slide=id.p" target="_blank">[MT Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 7-10 Assignment -->
@@ -437,8 +435,6 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://arxiv.org/abs/1609.08144" target="_blank">Google’s Neural Machine Translation System</a>
   <li><em>Optional:</em> <a href="http://distill.pub/2016/augmented-rnns/#attentional-interfaces" target="_blank">Attention and Augmented Recurrent Neural Networks</a> (section on “Attentional Interfaces” has an awesome visualization of an MT example, showing alignments)
   </ul>
-  <p>
-  <a href="https://docs.google.com/presentation/d/1PwV1xPx0q4z8pD6K324qGnPPaUf_-mpCqUPO-KNJ7Nc/preview" target="_blank">[MT Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 14 -->
@@ -456,7 +452,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="https://arxiv.org/pdf/1509.00685v2.pdf" target="_blank">A Neural Attention Model for Abstractive Sentence Summarization</a> (Rush et al. 2015)
   </ul>
   <p>
-  <a href="https://docs.google.com/presentation/d/1OBosgpmWlmZ30T8M5uxTtS-Dp9DRQmeHScCxFpduYBc/preview" target="_blank">[Slides]</a>
+  <a href="https://docs.google.com/presentation/d/1D7JBJibxUjp2n-VKbPssD9kyfdWc6--4U7e3gqLOCfc/edit#slide=id.p" target="_blank">[Slides]</a>
   </td>
 </tr>
 <tr><!--- Week 15 -->

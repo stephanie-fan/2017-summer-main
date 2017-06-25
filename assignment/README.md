@@ -8,9 +8,6 @@ TL;DR: Start early!
 
 Each assignment is due at 11:59pm Pacific on Wednesdays, unless otherwise stated.
 
-- [Assignment 0](a0/) (Course Set-Up) - due end of Week 1 (May 17, 11:59 pm Pacific)
-- [Assignment 1](a1/) (Info Theory and TensorFlow) - due end of Week 2 (May 24, 11:59 pm Pacific)
-
 ### Collaboration policy
 
 The work you submit must be your own. You are permitted to discuss the 
