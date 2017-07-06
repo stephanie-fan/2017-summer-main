@@ -289,6 +289,8 @@ We'll update the table below with assignments as they become available, as well 
   </ul>
   <p>
   <a href="https://docs.google.com/presentation/d/1Vqfa8h0XQgk00vtXgd7Y2nlKw46qrhQ6cjx2v7CMdpg/edit#slide=id.p" target="_blank">[Tagging Slides]</a>
+  <br>
+  <a href="https://hmm-dot-nlp-visualizations.appspot.com/" target="_blank">[Interactive HMM Visualization]</a>
   </td>
 </tr>
 <tr><!--- Week 5-6 Assignment -->
