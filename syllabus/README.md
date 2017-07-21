@@ -289,6 +289,8 @@ We'll update the table below with assignments as they become available, as well 
   </ul>
   <p>
   <a href="https://docs.google.com/presentation/d/1Vqfa8h0XQgk00vtXgd7Y2nlKw46qrhQ6cjx2v7CMdpg/edit#slide=id.p" target="_blank">[Tagging Slides]</a>
+  <br>
+  <a href="https://hmm-dot-nlp-visualizations.appspot.com/" target="_blank">[Interactive HMM Visualization]</a>
   </td>
 </tr>
 <tr><!--- Week 5-6 Assignment -->
@@ -329,7 +331,7 @@ We'll update the table below with assignments as they become available, as well 
   <td>
   <a href="../assignment/a4" target="_blank">Assignment 4</a>
   <p>
-  <p>Note: this is a somewhat shorter assignment than usual.
+  <p><em>Note: this is a somewhat shorter assignment than usual.</em>
   </td>
 </tr>
 <tr><!--- Week 9 -->
@@ -343,7 +345,7 @@ We'll update the table below with assignments as they become available, as well 
   <td><ul>
   <li>Read: <a href="https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html" target="_blank">SyntaxNet (Parsey McParseface)</a>
   <li>Read: <a href="https://web.stanford.edu/~jurafsky/slp3/14.pdf" target="_blank">Dependency Parsing (J&M Chapter 14)</a>
-  <li>Optional: <a href="http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf" target="_blank">A Fast and Accurate Dependency Parser using Neural Networks</a> (Chen & Manning 2014)
+  <li><em>Optional:</em> <a href="http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf" target="_blank">A Fast and Accurate Dependency Parser using Neural Networks</a> (Chen & Manning 2014)
   </ul>
   <p>
   <a href="https://docs.google.com/presentation/d/1iiXxWzvD_fDb6TU1cKSsJG10VH1BahOHVE9SkStmrY0/edit" target="_blank">[Parsing Slides]</a>
@@ -362,6 +364,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="http://www.nltk.org/book_1ed/ch08.html" target="_blank">NLTK book chapter 8 (analyzing sentence structure)</a>
   <li>Skim: <a href="http://ilpubs.stanford.edu:8091/~klein/unlexicalized-parsing.pdf" target="_blank">Accurate Unlexicalized Parsing</a> (Klein & Manning 2003)
   <li>Play: <a href="http://nlp.stanford.edu:8080/parser/" target="_blank">Stanford parser</a> (online demo)
+  <li><em>Optional / reference:</em> <a href="http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html" target="_blank">Penn Treebank Constituent Tags</a>
   </ul>
   </td>
 </tr>
@@ -419,6 +422,8 @@ We'll update the table below with assignments as they become available, as well 
   </ul></td>
   <td>
   <a href="../assignment/a5" target="_blank">Assignment 5</a>
+  <p><p>
+  <a href="https://hmm-dot-nlp-visualizations.appspot.com/" target="_blank">[Interactive HMM Visualization]</a>(built on assignment 5)
   </td>
 </tr>
 <tr><!--- Week 13 -->
