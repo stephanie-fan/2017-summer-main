@@ -24,7 +24,7 @@ def verify_ptb_install():
 
 ##
 # Tree preprocessing functions
-def get_np_real_child(node):
+def get_np_real_child(node, **kw):
     """Find the real child, skipping over injected 'NP-*' cross-reference
     nodes.
 
@@ -42,13 +42,24 @@ def get_np_real_child(node):
     real_children = []
     if node.label().startswith('NP-'):
         for child in node:
-            real_children.extend(get_np_real_child(child))
+            real_children.extend(get_np_real_child(child, **kw))
     else:
         real_children.append(node)
-    return map(copy_strip_np_sbj, real_children)
+    return [clean_tree(c, **kw) for c in real_children]
+    #  return map(clean_tree, real_children)
 
-def copy_strip_np_sbj(tree):
+def simplify_label(label):
+    nonterminal = isinstance(label, nltk.grammar.Nonterminal)
+    symbol = (label.symbol() if nonterminal else label)
+    symbol = symbol.split("-",1)[0]
+    symbol = symbol.split("=",1)[0]
+    return nltk.grammar.Nonterminal(symbol) if nonterminal else symbol
+
+def clean_tree(tree, **kw):
     """Make a copy of a Tree, stripping NP-* cross-reference nodes.
+
+    If 'simplify=True' passed as a keyword argument, will also convert all
+    annotated tags (e.g. S-TPC, N=2) to their basic forms.
 
     Args:
         tree: (nltk.tree.Tree) nonterminal node
@@ -58,6 +69,9 @@ def copy_strip_np_sbj(tree):
     """
     children = []
     for child in tree:
-        children.extend(get_np_real_child(child))
-    return Tree(tree.label(), children)
+        children.extend(get_np_real_child(child, **kw))
+    if kw.get('simplify', False):
+        return Tree(simplify_label(tree.label()), children)
+    else:
+        return Tree(tree.label(), children)
 
