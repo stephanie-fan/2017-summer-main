@@ -290,7 +290,7 @@ We'll update the table below with assignments as they become available, as well 
   <p>
   <a href="https://docs.google.com/presentation/d/1Vqfa8h0XQgk00vtXgd7Y2nlKw46qrhQ6cjx2v7CMdpg/edit#slide=id.p" target="_blank">[Tagging Slides]</a>
   <br>
-  <a href="https://hmm-dot-nlp-visualizations.appspot.com/" target="_blank">[Interactive HMM Visualization]</a>
+  <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[Interactive HMM Demo]</a>
   </td>
 </tr>
 <tr><!--- Week 5-6 Assignment -->
@@ -366,6 +366,8 @@ We'll update the table below with assignments as they become available, as well 
   <li>Play: <a href="http://nlp.stanford.edu:8080/parser/" target="_blank">Stanford parser</a> (online demo)
   <li><em>Optional / reference:</em> <a href="http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html" target="_blank">Penn Treebank Constituent Tags</a>
   </ul>
+  <p>
+  <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[Interactive CKY Demo]</a>
   </td>
 </tr>
 <tr><!--- Week 11 -->
@@ -412,20 +414,6 @@ We'll update the table below with assignments as they become available, as well 
   <a href="https://docs.google.com/presentation/d/102eo2Fb2dv3Bhlt30VFxaJ_7dR7A4NWwcWuuhtf3qg0/edit#slide=id.p" target="_blank">[MT Slides]</a>
   </td>
 </tr>
-<tr><!--- Week 7-10 Assignment -->
-  <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
-  <br>due&nbsp;Aug.&nbsp;2</td>
-  <td><strong>Tagging and Parsing</strong></td>
-  <td><ul>
-  <li>HMMs / Forward-Backward and Viterbi
-  <li>Parsing / CKY
-  </ul></td>
-  <td>
-  <a href="../assignment/a5" target="_blank">Assignment 5</a>
-  <p><p>
-  <a href="https://hmm-dot-nlp-visualizations.appspot.com/" target="_blank">[Interactive HMM Visualization]</a>(built on assignment 5)
-  </td>
-</tr>
 <tr><!--- Week 13 -->
   <td><strong>Week&nbsp;13</strong><br>(Aug.&nbsp;2&nbsp;-&nbsp;8)</td>
   <td>Machine Translation II</td>
@@ -440,6 +428,21 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://arxiv.org/abs/1609.08144" target="_blank">Google’s Neural Machine Translation System</a>
   <li><em>Optional:</em> <a href="http://distill.pub/2016/augmented-rnns/#attentional-interfaces" target="_blank">Attention and Augmented Recurrent Neural Networks</a> (section on “Attentional Interfaces” has an awesome visualization of an MT example, showing alignments)
   </ul>
+  </td>
+</tr>
+<tr><!--- Week 7-10 Assignment -->
+  <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
+  <br>due&nbsp;Aug.&nbsp;9</td>
+  <td><strong>Tagging and Parsing</strong></td>
+  <td><ul>
+  <li>HMMs / Forward-Backward and Viterbi
+  <li>Parsing / CKY
+  </ul></td>
+  <td>
+  <a href="../assignment/a5" target="_blank">Assignment 5</a>
+  <p><p>
+  <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[HMM Demo]</a> 
+  <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[CKY Demo]</a> 
   </td>
 </tr>
 <tr><!--- Week 14 -->
