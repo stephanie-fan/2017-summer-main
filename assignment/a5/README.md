@@ -7,6 +7,15 @@ This assignment consists of two parts:
 * [Part of Speech](part1/Part-of-Speech.ipynb)
 * [Parsing](part2/CKY.ipynb)
 
+### Visualizations (optional)
+
+We've built interactive visualizations of both parts of this assignment, which we hope you'll find useful as you work through your implementations of Viterbi, Forward-Backward, and CKY. In particular, you can inspect partial hypotheses (tag sequences or subtrees), and see how the backpointers trace through the Viterbi table (i.e. δ or the chart):
+
+* [HMM (part1)](https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log)
+* [CKY (part2)](https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food)
+
+_Note: the tag set and grammar in these demos is simplified to reduce visual clutter, so don't be surprised if numbers don't match with your implementation!_
+
 ### The Penn Treebank (optional)
 
 NLTK includes the `treebank` corpus, which is an abbreviated sample (3900 sentences) of the full (73k sentence) corpus.
